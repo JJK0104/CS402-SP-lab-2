@@ -1,4 +1,4 @@
-# CS402-SP-lab-1
+# CS402-SP-lab-2
 
 how to build and execute:
 
